@@ -1,0 +1,20 @@
+.nav {
+  background-image: radial-gradient(
+    circle 602px at 2.1% 5.1%,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(233, 0, 120, 1) 90.1%
+  );
+  color: rgba(220, 20, 60, 0.9);
+  padding: 1.2rem;
+}
+.nav h1 {
+  text-align: center;
+  font-size: 3rem;
+  text-shadow: 4px 2px #836767;
+  text-transform: uppercase;
+}
+.nav i {
+  color: blue;
+  text-shadow: none;
+  font-size: 4rem;
+}
